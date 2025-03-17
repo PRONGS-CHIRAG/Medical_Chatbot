@@ -1,8 +1,9 @@
-🔥 Project: RAG-powered Medical Chatbot with Real-Time Context Retrieval
-🎯 Goal:
+# 🔥 Project: RAG-powered Medical Chatbot with Real-Time Context Retrieval
+
+## 🎯 Goal:
 
 A chatbot that answers medical questions by combining an LLM's conversational abilities with real-time retrieval from trusted medical documents like clinical guidelines, textbooks, research articles, or patient records.
-🧠 How It Works (High-level architecture):
+## 🧠 High-level architecture:
 
     User Query (Input) →
     Retriever: Semantic Search → Pulls top-k relevant documents from a vector database.
