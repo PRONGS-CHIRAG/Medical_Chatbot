@@ -1,0 +1,5 @@
+This project will focus on the following diseases - 
+1) Common cold
+2) Influenza
+3) Covid-19
+4) H1N1

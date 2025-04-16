@@ -1,4 +1,11 @@
 streamlit
 langchain
+langchain-community
 faiss-cpu
 python-dotenv
+openai
+unstructured
+tiktoken
+numpy
+Bio
+

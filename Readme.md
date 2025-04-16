@@ -10,3 +10,5 @@ A chatbot that answers medical questions by combining an LLM's conversational ab
     Generator: LLM → Uses retrieved context to generate an accurate, helpful, and contextual response.
     Output: Natural-language answer, optionally with citations or sources.
 
+## Project still under developement, not finished yet.
+
